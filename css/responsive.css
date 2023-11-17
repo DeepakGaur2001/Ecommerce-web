@@ -1,0 +1,460 @@
+@media (max-width:1300px) {
+ .back {
+  height: 59vh;
+ }
+}
+
+
+@media (max-width: 991.98px) {
+  
+
+  .sebs {
+     background-color: red !important;
+     width: 56px !important;
+     color: white !important;
+     margin-top: 3% !important;
+     height: 38px;
+     margin-left: -5% !important;
+     border-radius: 0% 45% 42% 0% !important;
+     padding: 1% !important;
+   
+
+ }
+ .button {
+  margin-left: 0% !important;
+}
+ .newoneback {
+
+  margin-top: 20%;
+  margin-left: 6%;
+  margin-bottom: 15%;
+  width: 100% !important;
+
+}
+
+.sectiondown p {
+  font-size: 2.1vmin !important;
+}
+
+
+input {
+    margin-top: 3% !important;
+    width: 500px !important; ;
+     margin-left: 1px !important; 
+     border-color: rgb(243, 124, 12) !important;
+     border-radius: 25px !important;
+     color: gray !important;
+     
+    
+}
+
+.btnbtn {
+  margin-left: -16%;
+  width: 100px !important;
+}
+
+.icons-sub img {
+  margin-top: -46%;
+}
+
+.mega-sum-1 {
+  height: 34vh !important;
+}
+
+.mega-sum-1 h2 {
+  font-size: 26px;
+}
+
+.mega-sum-1 p {
+  font-size: 17px;
+}
+
+
+.btnss {
+  
+  bottom: 160px !important;
+  margin-left: 110px !important;
+
+}
+
+.innnnn {
+  margin-left: -250px !important; 
+  border-color: rgb(243, 124, 12) !important;
+  border-radius: 25px !important;
+  color: rgb(13, 13, 13) !important; }
+
+.innnnn {
+
+     height: 4vh !important;
+     width: 500px !important;
+     margin-top: 5% !important;
+ }
+
+ .ssss {
+   width: 150 !important;
+   margin-top: 6% !important;
+   height: 36.9px;
+   margin-left: -111px !important;
+   border-radius: 25px !important;
+   padding: 1% !important;
+}
+
+
+
+
+
+
+}
+
+
+@media (max-width:767.98px){
+
+
+
+  .sebs {
+    overflow: hidden;
+     background-color: red !important;
+     width: 56px !important;
+     color: white !important;
+     margin-top: 3% !important;
+     height: 38px;
+     margin-left: -10% !important;
+     border-radius: 0% 45% 42% 0% !important;
+     padding: 1% !important;
+   
+
+ }
+
+input {
+    margin-top: 3% !important;
+    width: 500px !important; ;
+     margin-left: 1px !important; 
+     border-color: rgb(243, 124, 12) !important;
+     border-radius: 25px !important;
+     color: gray !important;
+     
+    
+}
+
+
+.opop{
+  margin-left: 38% !important;
+}
+
+.texts  {
+  margin-left: 0%;
+  margin-top: 5%;
+  padding-bottom: 5%;
+
+
+}
+
+
+.mega-sum-1 {
+  height: 40vh !important;
+}
+
+
+.icons-sub {
+  margin-top: 93px;
+}
+
+.icons-sub img {
+  margin-left: 15px;
+}
+
+.star-rating{
+  display: none;
+}
+
+.btnbtn {
+  margin-left: -37%;
+  background-color: orange !important;
+  color: #fff !important;
+  width: 70px !important;
+  height: 40px !important;
+  font-size: 11px !important;
+  padding-top: 2% !important;
+}
+
+.footercontent2 h4 {
+  margin-top: -58%;
+  font-size: 13px;
+}
+
+
+  .copyright {
+    margin-top: -25%;
+    margin-left: 5%;
+
+  }
+
+  .copyright p{
+
+    margin-left: 0rem;
+  }
+  .copyright h5 {
+    margin-left: -14px;
+  }
+
+
+
+
+.bttt {
+  position: relative;
+  margin-left: 320px;
+  background-color: tomato !important;
+  width: 150px;
+  height: 40px;
+  color: white !important;
+  font-size: 12px !important;
+  font-weight: 600;
+  top: 130px;
+  left: 0px;
+}
+
+.back {
+  height: 30vh;
+}
+
+.button {
+  margin-left: -10%;
+}
+
+
+ .innnnn {
+     margin-left: -430px !important; 
+     border-color: rgb(243, 124, 12) !important;
+     border-radius: 25px !important;
+     color: gray !important; }
+
+.innnnn {
+
+        height: 4vh !important;
+        width: 500px !important;
+        margin-top: 5% !important;
+    }
+
+    .ssss {
+      width: 150 !important;
+      margin-top: 6% !important;
+      height: 36.9px;
+      margin-left: -111px !important;
+      border-radius: 25px !important;
+      padding: 1% !important;
+  }
+
+}
+
+
+@media (max-width:600px) {
+
+
+    .sebs {
+        overflow: hidden;
+         background-color: red !important;
+         width: 50px !important;
+         color: white !important;
+         margin-top: 5% !important;
+         height: 37px;
+         margin-left: -14% !important;
+         border-radius: 0% 45% 42% 0% !important;
+         padding: 1% !important;
+       
+
+     }
+
+    input {
+        margin-top: 5% !important;
+        width: 300px !important; ;
+         margin-left: 1px !important; 
+         border-color: rgb(243, 124, 12) !important;
+         border-radius: 25px !important;
+         color: gray !important;
+         
+        
+    }
+
+    .tptp {
+        margin-left: 33.5% !important;
+    }
+
+    .tptpt {
+        margin-left: 38% !important;
+    }
+
+    .texts  {
+        margin-left: 30%;
+        padding-bottom: 5%;
+        
+    
+
+    }
+
+
+    .mega-sum-1 h2 {
+        font-size: 30px;
+        margin-left: -31px;
+        line-height: 46px;}
+
+    
+    .mega-sum-1 p {
+      font-size: 18px;
+      font-weight: 500;
+    margin-left: -30px;}
+
+    .btn.butn {
+        margin-left: -33px !important;
+margin-top: 10px !important;
+    }
+
+    .icons-sub {
+        margin-top: 93px;
+    }
+
+    .icons-sub img {
+        margin-left: 15px;
+    }
+
+    .mega-sum-1 {
+        height: 25vh;
+    }
+
+
+    h1.middle {
+    font-size: 20px;
+}
+ p.papapa {
+    font-size: 12px;
+}
+
+
+
+
+.btnss {
+    position: relative;
+    bottom: 165px !important; 
+    margin-left: 120px !important;
+    padding-bottom: 1.5% !important;
+  }
+
+  .bttt {
+    position: relative;
+    margin-left: 135px;
+    background-color: tomato !important;
+    width: 100px;
+    color: white !important;
+    font-size: 12px !important;
+    font-weight: 600;
+    top: 60px;
+    left: 0px;
+  }
+
+  .back {
+    height: 18vh;
+  }
+
+  .newoneback {
+
+    margin-top: 10%;
+    margin-left: 15%;
+    margin-bottom: 15%;
+    width: 80% !important;
+
+  }
+
+
+
+  .lolo {
+    font-size: 11px !important;
+  }
+
+  .lala h1 {
+    font-size: 25px;
+  }
+
+
+  .innnnn {
+     margin-left: -250px !important; 
+     border-color: rgb(243, 124, 12) !important;
+     border-radius: 25px !important;
+     color: gray !important; }
+
+.innnnn {
+
+        height: 4vh !important;
+        width: 300px !important;
+        margin-top:-30% !important;
+    }
+
+    .ssss {
+      width: 150 !important;
+      margin-top: -31% !important;
+      height: 40px;
+      margin-left: -111px !important;
+      border-radius: 25px !important;
+      padding: 1% !important;
+  }
+
+.footercontent2 h4 {
+  margin-top: -58%;
+  font-size: 13px;
+}
+
+
+  .copyright {
+    margin-top: -25%;
+    margin-left: 5%;
+
+  }
+
+  .copyright p{
+
+    margin-left: 0rem;
+  }
+  .copyright h5 {
+    margin-left: -14px;
+  }
+}
+
+@media (max-width:424px) {
+
+  .ssss {
+    width: 110px !important;
+    margin-top: -31% !important;
+    height: 38.7px !important;
+    margin-left: -110px !important;
+}
+
+  .mega-sum-1 {
+    height: 30vh !important;
+  }
+
+  .sebs {
+     width: 55px !important;
+     height: 38.1px;
+ }
+ .bttt {
+
+  margin-left: 0px;
+  top: 100px;
+ }
+
+ .btnss {
+  
+  bottom: 190px !important;
+  margin-left: 140px !important;
+
+}
+
+
+ .innnnn {
+  margin-left: -280px !important; 
+  border-color: rgb(243, 124, 12) !important;
+  border-radius: 25px !important;
+  color: gray !important; }
+
+
+
+
+}
